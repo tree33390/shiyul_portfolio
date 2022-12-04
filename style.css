@@ -1,0 +1,46 @@
+body {
+    background-color : rgba(255, 255, 255)
+}
+
+h3 {
+    font-size : 18px;
+    color : rgba(100, 90, 65, 0.722);
+}
+
+li {
+    font-size : 15px;
+    color : rgba(100, 100, 55, 0.6);
+} 
+
+img {
+    width : 400px;
+}
+
+.pizza {
+    color : rgb(0, 100, 155);
+}
+
+#mathematics {
+    color : rgb(255, 0, 0);
+}
+
+#read {
+    color : rgb(255, 145, 0);
+}
+
+#graphite {
+    color : rgb(246, 255, 0);
+}
+
+#engineering {
+    color : rgb(0, 255, 0);
+}
+
+#NonsensicalThings {
+    color : rgb(0, 0, 255);
+}
+
+#SocietySkills {
+    color : rgb(130, 0, 125);
+}
+
